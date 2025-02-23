@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated using sounddrill31/actions_generate_local_manifests -->
+
+    <!-- Remotes -->
+    <remote name="PixelOS-Devices" fetch="https://github.com/PixelOS-Devices" clone-depth="1" />
+  
+    <!-- Removals -->
+
+    <!-- Repos -->
+    <!-- Device -->
+    <project path="device/xiaomi/peridot" name="device_xiaomi_peridot" remote="PixelOS-Devices" revision="fifteen" />
+
+    <!-- Device - Common -->
+
+    <!-- Kernel -->
+    <project path="kernel/xiaomi/peridot-kerne" name="device_xiaomi_peridot-kerne" remote="PixelOS-Devices" revision="fifteen" />
+
+    <!-- Vendor -->
+    <project path="vendor/xiaomi/peridot" name="vendor_xiaomi_peridot" remote="PixelOS-Devices" revision="fifteen" />
+
+    <!-- Vendor - Common -->
+
+    <!-- Hardware -->
+    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="PixelOS-AOSP" revision="fifteen" />
+
+</manifest>

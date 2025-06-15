@@ -4,6 +4,7 @@
 
     <!-- Remotes -->
     <remote name="crdroidandroid" fetch="https://github.com/crdroidandroid/" clone-depth="1" />
+    <remote name="crdroidandroid" fetch="https://gitlab.com/crdroidandroid" clone-depth="1" />
   
     <!-- Removals -->
 

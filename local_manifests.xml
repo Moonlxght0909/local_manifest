@@ -15,7 +15,7 @@
     <!-- Device - Common -->
 
     <!-- Kernel -->
-    <project path="kernel/xiaomi/peridot-kerne" name="andeoid_device_xiaomi_peridot-kerne" remote="crdroidandroid" revision="15.0" />
+    <project path="kernel/xiaomi/peridot-kerne" name="andeoid_device_xiaomi_peridot-kernel" remote="crdroidandroid" revision="15.0" />
 
     <!-- Vendor -->
     <project path="vendor/xiaomi/peridot" name="vendor_xiaomi_peridot" remote="crdroidandroid" revision="15.0" />

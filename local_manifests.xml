@@ -3,21 +3,21 @@
 <!-- Generated using sounddrill31/actions_generate_local_manifests -->
 
     <!-- Remotes -->
-    <remote name="PixelOS-Devices" fetch="https://github.com/PixelOS-Devices" clone-depth="1" />
+    <remote name="crdroidandroid" fetch="https://github.com/crdroidandroid/" clone-depth="1" />
   
     <!-- Removals -->
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/xiaomi/peridot" name="device_xiaomi_peridot" remote="PixelOS-Devices" revision="fifteen" />
+    <project path="device/xiaomi/peridot" name="android_device_xiaomi_peridot" remote="crdroidandroid" revision="15.0" />
 
     <!-- Device - Common -->
 
     <!-- Kernel -->
-    <project path="kernel/xiaomi/peridot-kerne" name="device_xiaomi_peridot-kerne" remote="PixelOS-Devices" revision="fifteen" />
+    <project path="kernel/xiaomi/peridot-kerne" name="andeoid_device_xiaomi_peridot-kerne" remote="crdroidandroid" revision="15.0" />
 
     <!-- Vendor -->
-    <project path="vendor/xiaomi/peridot" name="vendor_xiaomi_peridot" remote="PixelOS-Devices" revision="fifteen" />
+    <project path="vendor/xiaomi/peridot" name="vendor_xiaomi_peridot" remote="crdroidandroid" revision="15.0" />
 
     <!-- Vendor - Common -->
 

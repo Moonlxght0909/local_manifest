@@ -10,19 +10,19 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/xiaomi/peridot" name="android_device_xiaomi_peridot" remote="crdroidandroid" revision="15.0" />
+    <project path="device/xiaomi/peridot" name="android_device_xiaomi_peridot" remote="crdroidandroid" revision="16.0" />
 
     <!-- Device - Common -->
 
     <!-- Kernel -->
-    <project path="kernel/xiaomi/peridot-kerne" name="andeoid_device_xiaomi_peridot-kernel" remote="crdroidandroid" revision="15.0" />
+    <project path="kernel/xiaomi/peridot-kerne" name="andeoid_device_xiaomi_peridot-kernel" remote="crdroidandroid" revision="16.0" />
 
     <!-- Vendor -->
-    <project path="vendor/xiaomi/peridot" name="vendor_xiaomi_peridot" remote="crdroidandroid" revision="15.0" />
+    <project path="vendor/xiaomi/peridot" name="vendor_xiaomi_peridot" remote="crdroidandroid" revision="16.0" />
 
     <!-- Vendor - Common -->
 
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="PixelOS-AOSP" revision="fifteen" />
+    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="PixelOS-AOSP" revision="sixteen" />
 
 </manifest>
